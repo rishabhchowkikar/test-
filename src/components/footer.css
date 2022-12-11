@@ -1,0 +1,200 @@
+.my {
+  height: 10vh;
+  background-color: blueviolet;
+  max-width: 60vw;
+  margin: 2rem 15rem;
+  padding: 3rem 5rem;
+  background-color: rgb(249 249 255);
+  border-radius: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.h3 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: #0a1435;
+}
+.h2 {
+  font-size: 30px;
+  font-weight: 500;
+}
+.short {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.4rem 0rem;
+  gap: 9rem;
+}
+.containerI {
+  background-color: #0a1435;
+  height: 35vh;
+  display: flex;
+
+  justify-items: center;
+  align-items: center;
+  gap: 5rem;
+  padding: 4rem 4rem;
+}
+.Btn {
+  width: 10px;
+  height: 10px;
+  font-size: 20px;
+}
+.footer-about {
+  padding: 0 2rem;
+}
+
+.rish {
+  font-size: 30px;
+  color: #fff;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+.rishF {
+  font-size: 30px;
+  color: #fff;
+  padding-bottom: 10px;
+  margin-top: -39px;
+  /* margin-bottom: 20px; */
+}
+
+.rishP {
+  font-size: 30px;
+  color: #fff;
+  padding-bottom: 10px;
+  margin-top: 57px;
+}
+.footer-social {
+  padding: 1rem;
+  gap: 2rem;
+}
+.footer-social--icons {
+  display: flex;
+  gap: 2rem;
+}
+
+.icons {
+  font-size: 2rem;
+  color: #fff;
+  transition: all 0.5s ease;
+  padding-top: 10px;
+}
+.icons:hover {
+  scale: 1.35;
+}
+
+.chow {
+  color: #fff;
+}
+
+.hello {
+  color: #fff;
+}
+
+.hello:hover {
+  color: grey;
+}
+.underlinef {
+  width: 90%;
+  height: 5px;
+  background: #767676;
+  border-radius: 3px;
+  position: relative;
+  top: 6px;
+  left: 0px;
+  overflow: hidden;
+}
+.underlinef span {
+  width: 30px;
+  height: 100%;
+  background: #fff;
+  border-radius: 3px;
+  position: absolute;
+  top: 0;
+  left: 10px;
+  animation-name: moving;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+@keyframes moving {
+  0% {
+    left: -20px;
+  }
+  100% {
+    left: 100%;
+  }
+}
+
+.underlinea {
+  width: 85%;
+  height: 5px;
+  background: #767676;
+  border-radius: 3px;
+  position: relative;
+  top: 6px;
+  left: 0px;
+  overflow: hidden;
+}
+.underlinea span {
+  width: 30px;
+  height: 100%;
+  background: #fff;
+  border-radius: 3px;
+  position: absolute;
+  top: 0;
+  left: 10px;
+  animation-name: moving;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+
+.underlined {
+  width: 75%;
+  height: 5px;
+  background: #767676;
+  border-radius: 3px;
+  position: relative;
+  top: 6px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.underlined span {
+  width: 30px;
+  height: 100%;
+  background: #fff;
+  border-radius: 3px;
+  position: absolute;
+  top: 0;
+  left: 10px;
+  animation-name: moving;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+
+.underlinet {
+  width: 79%;
+  height: 5px;
+  background: #767676;
+  border-radius: 3px;
+  position: relative;
+  top: 6px;
+  left: 0px;
+  overflow: hidden;
+}
+.underlinet span {
+  width: 30px;
+  height: 100%;
+  background: #fff;
+  border-radius: 3px;
+  position: absolute;
+  top: 0;
+  left: 10px;
+  animation-name: moving;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+
+hr {
+  color: #fff;
+}

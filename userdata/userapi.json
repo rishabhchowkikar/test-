@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "title": "Web Development",
+        "image": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png",
+        "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development."
+    },
+    {
+        "id":2,
+        "title": "App Development",
+        "image": "https://www.seasiainfotech.com/images/mobile-app-banner.jpg",
+        "description": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an (application-like) experience within a web browser."
+    },
+    {
+        "id":3,
+        "title": "Software Development",
+        "image": "https://marsner.com/wp-content/uploads/why-custom-software-development.jpeg",
+        "description": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software. Software itself is the set of instructions or programs that tell a computer what to do. It is independent of hardware and makes computers programmable. There are three basic types:System software to provide core functions such as operating systems, disk management, utilities, hardware management and other operational necessities.Programming software to give programmers tools such as text editors, compilers, linkers, debuggers and other tools to create code.Application software (applications or apps) to help users perform tasks. Office productivity suites, data management software, media players and security programs are examples."
+     },
+     {
+        "id":4,
+        "title": "Digital Marketing",
+        "image": "https://neilpatel.com/wp-content/uploads/2021/07/digital-marketing_featured-image.png",
+        "description": "Any marketing that uses electronic devices and can be used by marketing specialists to convey promotional messaging and measure its impact through your customer journey. In practice, digital marketing typically refers to marketing campaigns that appear on a computer, phone, tablet, or other device."
+     },
+     {
+        "id":5,
+        "title": "Graphic Designer",
+        "image": "https://blog.hubspot.com/hubfs/graphic%20design%20trends.jpg",
+        "description": "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users’ specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience."
+     },
+     {
+        "id":6,
+        "title": "Artificial Intelligance",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5f57db71653ff9e8e4d10083/AI--Machine-learning--Hands-of-robot-and-human-touching-on-big-data-network/960x0.jpg?format=jpg&width=960",
+        "description": "Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.The ideal characteristic of artificial intelligence is its ability to rationalize and take actions that have the best chance of achieving a specific goal. A subset of artificial intelligence is machine learning (ML)"
+     }
+]
